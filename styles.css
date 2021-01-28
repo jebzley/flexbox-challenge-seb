@@ -61,7 +61,7 @@ main{
 
 .panel{
   margin: 10px;
-  padding: 20px;
+  padding: 10px;
   border: 2px solid black;
 }
 
@@ -74,14 +74,8 @@ main{
 }
 
 #right-hand-panel{
-  display: flex;
-  flex-direction: column;
   width: 30%;
   margin: 10px;
   padding: 20px;
   border: 2px solid black;
-}
-#right-hand-panel p{
-  height: 100%;
-  line-height: auto;
 }
